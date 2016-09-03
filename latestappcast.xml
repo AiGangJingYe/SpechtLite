@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>SpechtLite</title>
+<link>https://zhuhaow.github.io/SpechtLite/latestappcast.xml</link>
+<description>The infomation of the lastest SpechtLite.</description>
+<language>en</language>
+<item>
+<title>SpechtLite 0.3.1</title>
+<pubDate>2016-09-03T04:20:54+00:00</pubDate>
+<description><![CDATA[
+0.3.1
+Now country rule with county code "--" will not match failed DNS lookup.
+
+]]>
+</description>
+<enclosure url="https://github.com/zhuhaow/SpechtLite/releases/download/0.3.1/SpechtLite.zip"
+sparkle:version="103"
+sparkle:shortVersionString="0.3.1"
+sparkle:dsaSignature="MCwCFH8t+0zKOZKlOMgPbN+4FYGolke6AhR9XR1zINZ5lGAj1Z5qQayndRsmnw=="
+length="7330720"
+type="application/octet-stream" />
+</item>
+</channel>
+</rss>
